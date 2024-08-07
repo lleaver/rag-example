@@ -1,0 +1,4 @@
+langchain
+langchain-community
+langchain-unstructured
+langchain-nvidia-ai-endpoints
