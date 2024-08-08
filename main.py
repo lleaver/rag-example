@@ -10,7 +10,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.retrievers import ContextualCompressionRetriever
 
 ## Setup
-nvapi_key = "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"
+nvapi_key = ""
 
 ## Load Data
 pdf_directory = "pdf-data/"
